@@ -7,6 +7,13 @@ The deployed app is available on Render at: https://twitter-clone-btkd.onrender.
 ## Description
 
 This is a full stack web app resembling Twitter (X). It is a personal project made for fun and practice. The .env file with demo environment variables is pushed to the repo to make local running and previewing the app easier.
+This app was created using:
+- React Vite
+- Node
+- Express
+- Mongo
+- Tailwind CSS
+- Daisy UI
 
 ## Getting Started
 
